@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Timags
-- 👀 I’m interested in Software Development 
+- 👀 I’m interested in Artificial intelligence 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
